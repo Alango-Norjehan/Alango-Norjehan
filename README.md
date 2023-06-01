@@ -1,7 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Jyyhan</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" width=“300” height="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt=“coding” />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alango-norjehan&label=Profile%20views&color=0e75b6&style=flat" alt="alango-norjehan" /> </p>
